@@ -1,0 +1,18 @@
+.navbar {
+  font-size: 20px;
+  background-color: #98a8f8;
+}
+.jumbotron {
+  background-color: #faf7f0;
+}
+.jumbotron img {
+  margin-top: 100px;
+  width: 200px;
+}
+.about p {
+  margin-top: 20px;
+  margin-bottom: 200px;
+}
+.projects .col h2 {
+  margin-bottom: 30px;
+}
